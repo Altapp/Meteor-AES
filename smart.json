@@ -3,7 +3,7 @@
 	"description": "Stand-alone encryption package to encrypt/decrypt data with AES using Crypto-JS.",
 	"homepage": "https://github.com/manybothans/Meteor-AES",
 	"author": "ManyBothans <jess@altapp.ca>",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"git": "https://github.com/manybothans/Meteor-AES.git",
 	"packages": {}
 }
