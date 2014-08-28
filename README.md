@@ -8,7 +8,7 @@ CryptoJS is at https://code.google.com/p/crypto-js/
 ## Installation
 
 ``` sh
-$ mrt add aes
+$ meteor add jplatimer:aes
 ```
 
 ## How to use
