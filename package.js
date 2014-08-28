@@ -1,8 +1,8 @@
 Package.describe({
-	summary: "Stand-alone encryption package to encrypt/decrypt data with AES using Crypto-JS."
-	git: "https://github.com/manybothans/Meteor-AES.git",
-    version: "1.1.0",
     name: "jplatimer:aes",
+	summary: "Stand-alone encryption package to encrypt/decrypt data with AES using Crypto-JS.",
+	git: "https://github.com/manybothans/Meteor-AES.git",
+    version: "1.1.0"
 });
 
 Package.onUse(function (api) {
