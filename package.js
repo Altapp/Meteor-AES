@@ -1,8 +1,8 @@
 Package.describe({
-    name: "jplatimer:aes",
+    name: "altapp:aes",
 	summary: "Stand-alone encryption package to encrypt/decrypt data with AES using Crypto-JS.",
-	git: "https://github.com/manybothans/Meteor-AES.git",
-    version: "1.1.1"
+	git: "https://github.com/Altapp/Meteor-AES.git",
+    version: "1.2.0"
 });
 
 Package.onUse(function (api) {
